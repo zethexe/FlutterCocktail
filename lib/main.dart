@@ -1,6 +1,5 @@
 import 'package:cocteles/coctel.dart';
 import 'package:cocteles/drinkDetail.dart';
-import 'package:cocteles/pokemon.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
