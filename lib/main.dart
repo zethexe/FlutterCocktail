@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 void main() => runApp(MaterialApp(
-      title: "Poke App",
+      title: "Cocktail App",
       home: HomePage(),
       debugShowCheckedModeBanner: false,
     ));
